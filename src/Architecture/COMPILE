@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [[ "$#" -ne "1" ]]
+then
+	echo "usage: $0 <markdown file>"
+	exit 10
+fi
+
+pdf=${1//.md/.pdf}
+
+pandoc "$1" -o "$pdf"
+
+if [ -f "$pdf" ]
+then
+	cp "$pdf" ../..
+	zathura "$pdf"
+fi
+

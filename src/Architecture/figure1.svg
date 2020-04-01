@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137.06825mm"
+   height="107.45774mm"
+   viewBox="0 0 137.06825 107.45774"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="figure1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9976378"
+     inkscape:cx="362.16947"
+     inkscape:cy="95.223902"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="1080"
+     inkscape:window-y="410"
+     inkscape:window-maximized="1"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="true"
+     borderlayer="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.809067,-108.83005)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489"
+       width="23.160433"
+       height="14.408511"
+       x="54.059212"
+       y="110.51393" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.754906"
+       y="116.12692"
+       id="text4497"><tspan
+         sodipodi:role="line"
+         id="tspan4495"
+         x="56.754906"
+         y="116.12692"
+         style="stroke-width:0.26458332px">Cartridge</tspan><tspan
+         sodipodi:role="line"
+         x="56.754906"
+         y="120.53664"
+         style="stroke-width:0.26458332px"
+         id="tspan4499">Loader</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4485"
+       width="38.83939"
+       height="83.659843"
+       x="39.059067"
+       y="132.37794" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4487"
+       width="83.747871"
+       height="54.784622"
+       x="91.555809"
+       y="109.08005" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4525"
+       width="27.904575"
+       height="20.213493"
+       x="99.690117"
+       y="184.78746" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.10578"
+       y="189.85522"
+       id="text4529"><tspan
+         sodipodi:role="line"
+         id="tspan4527"
+         x="102.10578"
+         y="189.85522"
+         style="stroke-width:0.26458332px">Pixel</tspan><tspan
+         sodipodi:role="line"
+         x="102.10578"
+         y="194.26495"
+         style="stroke-width:0.26458332px"
+         id="tspan4531">Renderer</tspan></text>
+    <g
+       id="g4566"
+       transform="translate(-1.3260491,13.790899)"
+       style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="170.99657"
+         x="139.07378"
+         height="20.213493"
+         width="27.904575"
+         id="rect4525-6"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4550"
+         y="176.59474"
+         x="142.41766"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="176.59474"
+           x="142.41766"
+           id="tspan4548"
+           sodipodi:role="line">Audio</tspan><tspan
+           id="tspan4552"
+           style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+           y="181.00447"
+           x="142.41766"
+           sodipodi:role="line">Mixer</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4554"
+       width="84.07151"
+       height="43.494408"
+       x="91.555809"
+       y="172.54338" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.210327"
+       y="178.71642"
+       id="text4570"><tspan
+         sodipodi:role="line"
+         id="tspan4568"
+         x="95.210327"
+         y="178.71642"
+         style="stroke-width:0.26458332px">Television</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.210327"
+       y="116.65732"
+       id="text4597"><tspan
+         sodipodi:role="line"
+         id="tspan4595"
+         x="95.210327"
+         y="116.65732"
+         style="stroke-width:0.26458332px">Hardware</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4593"
+       width="27.58182"
+       height="21.747204"
+       x="99.718895"
+       y="133.36554" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.6362"
+       y="139.46538"
+       id="text4601"><tspan
+         sodipodi:role="line"
+         id="tspan4599"
+         x="102.6362"
+         y="139.46538"
+         style="stroke-width:0.26458332px">Playback</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4593-4"
+       width="27.58182"
+       height="21.747206"
+       x="137.37868"
+       y="133.36554" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.29599"
+       y="138.40453"
+       id="text4622"><tspan
+         sodipodi:role="line"
+         id="tspan4620"
+         x="140.29599"
+         y="138.40453"
+         style="stroke-width:0.26458332px">Event</tspan><tspan
+         sodipodi:role="line"
+         x="140.29599"
+         y="142.81425"
+         style="stroke-width:0.26458332px"
+         id="tspan4624">Recorder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.168358"
+       y="138.93495"
+       id="text4652"><tspan
+         sodipodi:role="line"
+         id="tspan4650"
+         x="42.168358"
+         y="138.93495"
+         style="stroke-width:0.26458332px">Main</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.49999999, 1.49999998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4523"
+       width="73.728325"
+       height="34.477276"
+       x="96.271156"
+       y="124.34842" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.51451"
+       y="129.92033"
+       id="text4527"><tspan
+         sodipodi:role="line"
+         id="tspan4525"
+         x="100.51451"
+         y="129.92033"
+         style="stroke-width:0.26458332px">RIOT/Input</tspan></text>
+  </g>
+</svg>
