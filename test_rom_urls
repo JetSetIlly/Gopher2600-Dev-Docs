@@ -1,0 +1,68 @@
+
+resetDuringHmove
+	self
+
+latchBit.bin
+	self
+
+simpleTestCards
+	self
+
+
+test.bin
+	this test the interaction for scoremode and priority pit on the playfield
+	and other video elements
+
+	https://github.com/stella-emu/stella/issues/58
+
+
+NUSIZTest.bin
+	https://atariage.com/forums/topic/209224-requesting-help-in-improving-tia-emulation-in-stella/?do=findComment&comment=2703410
+
+
+rsync_jumping
+	https://atariage.com/forums/topic/209224-requesting-help-in-improving-tia-emulation-in-stella/?do=findComment&comment=2703409
+
+
+testSize2Copies_A.bin
+	https://atariage.com/forums/topic/209224-requesting-help-in-improving-tia-emulation-in-stella/?do=findComment&comment=2703269
+
+
+testSize2Copies_B.bin
+	same as above but the bit-pattern used for the player data is different
+
+
+player_switching.bin
+	https://github.com/stella-emu/stella/issues/68
+
+
+Test RSYNC (v2)
+	https://atariage.com/forums/topic/197621-rsync-repositioning-and-emulation/
+
+
+Cosmic3Stars
+	https://www.biglist.com/lists/stella/archives/199705/msg00024.html
+	(via TIA_HW_Notes.txt)
+
+
+PosWidth
+	https://atariage.com/forums/topic/239890-respx-nusizx-and-player-positioning/
+
+
+Parrot Kernel
+	https://atariage.com/forums/topic/217629-a-programming-challenge/page/3/?tab=comments#comment-2850770
+
+
+games_that_do_bad_things_to_hmove
+	https://www.biglist.com/lists/stella/archives/199804/msg00198.html
+	
+
+collisions
+	https://github.com/stella-emu/stella/issues/294
+
+timer
+	https://github.com/stella-emu/stella/issues/108
+
+pa7
+	https://github.com/stella-emu/stella/issues/108
+
